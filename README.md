@@ -1,4 +1,4 @@
-# Flight Price Tracker ✈️
+# Flight Price Tracker 
 
 Automated flight price monitoring system with real-time alerts and price tracking.
 
